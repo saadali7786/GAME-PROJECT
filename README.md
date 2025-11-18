@@ -13,11 +13,11 @@ and using portals to reach hidden areas. The goal is to escape within 90 seconds
 - Portals for teleportation to secret zones
 - Real-time countdown using GetTickCount()
 - Modular code structure with functions and arrays.
-- 
+  
 ## Technologies Used
 - Programming Language: C
 - Libraries: stdio.h, stdlib.h, time.h, windows.h
-- 
+  
 ## How to Run
 - Open the project in a C-compatible IDE (e.g., Code::Blocks, Dev-C++, Visual Studio).
 - Ensure the compiler supports windows.h.
