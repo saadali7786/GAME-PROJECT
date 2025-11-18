@@ -14,7 +14,7 @@ and using portals to reach hidden areas. The goal is to escape within 90 seconds
 - Real-time countdown using GetTickCount()
 - Modular code structure with functions and arrays.
 - 
-- ## Technologies Used
+## Technologies Used
 - Programming Language: C
 - Libraries: stdio.h, stdlib.h, time.h, windows.h
 - 
